@@ -1,0 +1,44 @@
+/* CSS Document */
+p {
+	color: purple;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: #FFCFF1;
+	padding: 20px;
+}
+.paragraf_2 {color: purple; background-color: rgba(238, 130, 238, 0.5)}
+.novi_blok {
+	color: black; background-color: rgba(255, 207, 241, 0.7);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family: bradley hand, cursive;
+	color: #E0218A;
+}
+
+span {color: #FF007F;}
+.pozadina {
+	background-image: url("Dokumenti/roza.jpg");
+}
+.drugapozadina{
+	background-color: #D8BFD8;
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 2px solid #ff007f; 
+}
+
+a:hover{
+	background-color: #d470a2;
+}
+
+img{
+	height: 200px;
+}
